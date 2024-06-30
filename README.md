@@ -1,2 +1,1 @@
-# gS
-Guardian Validator's LST
+# gS - Guardian Validator's LST
